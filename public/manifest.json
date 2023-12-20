@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Memo!",
+  "name": "You can write notes directly from the website without installing the program.",
   "icons": [
     {
       "src": "favicon.ico",
